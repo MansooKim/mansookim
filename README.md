@@ -1,6 +1,6 @@
 ### Hi, I'm Mansoo Kim 👋
 
-[![Mansoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansookim&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Mansoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansoo-kim&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mansookim/mansookim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
